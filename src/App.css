@@ -1,0 +1,26 @@
+.App {
+  width: 50%;
+  height: 80%;
+  margin: auto;
+  border-radius: 20px;
+  box-shadow: 5px 5px gray;
+  background-color: #e68cae7c;  
+  padding: 3%;
+}
+
+.info{
+  display: flex;
+  justify-content: center;
+  align-items: baseline ;
+}
+p{
+  font-size: larger;
+  margin-left: 1rem;
+}
+h1{
+  text-align: center;
+}
+.submit{
+  position: relative;
+  left: 43%;
+}
